@@ -1,8 +1,50 @@
 object Form1: TForm1
-  Left = 247
+  Left = 225
   Height = 425
-  Top = 127
+  Top = 128
   Width = 705
-  Caption = 'Form1'
+  Caption = 'Digger'
+  Color = clForm
+  Menu = MainMenu1
+  OnCreate = FormCreate
   LCLVersion = '2.0.10.0'
+  object MainMenu1: TMainMenu
+    Top = 24
+    object MenuItem: TMenuItem
+      Caption = 'Меню'
+      object NewGameItem: TMenuItem
+        Caption = 'Новая игра'
+        OnClick = NewGameItemClick
+      end
+      object SavesItem: TMenuItem
+        Caption = 'Сохранения'
+        object StartLastSaveItem: TMenuItem
+          Caption = 'Загрузить последнее сохранение'
+          OnClick = StartLastSaveItemClick
+        end
+      end
+      object RecordsItem: TMenuItem
+        Caption = 'Рекорды'
+        OnClick = RecordsItemClick
+      end
+      object MobsAndItemsItem: TMenuItem
+        Caption = 'Мобы и предметы'
+      end
+      object SettingsItem: TMenuItem
+        Caption = 'Настройки'
+        object SoundItem: TMenuItem
+          Caption = 'Звук'
+          OnClick = SoundItemClick
+        end
+        object LightItem: TMenuItem
+          Caption = 'Яркость'
+          OnClick = LightItemClick
+        end
+      end
+      object ExitItem: TMenuItem
+        Caption = 'Выход'
+        OnClick = ExitItemClick
+      end
+    end
+  end
 end

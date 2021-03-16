@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\pascal\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiD:\Digger\digger\lib\x86_64-win64 -FuD:\pascal\lcl\units\x86_64-win64\win32 -FuD:\pascal\lcl\units\x86_64-win64 -FuD:\pascal\components\lazutils\lib\x86_64-win64 -FuD:\pascal\packager\units\x86_64-win64 -FuD:\Digger\digger\ -FUD:\Digger\digger\lib\x86_64-win64\ -FED:\Digger\digger\ -oD:\Digger\digger\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
