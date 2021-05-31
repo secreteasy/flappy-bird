@@ -1,0 +1,15 @@
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird.exe.config
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird.exe
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\bin\Debug\Flappy Bird.pdb
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.g.resources
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.exe
+C:\Users\madara\Desktop\WPF-Flappy-Bird-Game-main — копия\Flappy Bird WPF MOO ICT\obj\Debug\Flappy Bird.pdb
