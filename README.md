@@ -15,4 +15,5 @@ Flappy Bird
 ![изображение](https://user-images.githubusercontent.com/79351045/201620889-527c3dfb-ebe3-4289-a649-b836751b7cc8.png)
 
 
-Для того что бы запустить игру, нужно скачать папку "flappybird" и запустить ".exe" файл.
+Для того что бы запустить игру, нужно скачать папку "flappybird".
+запустить "Flappy Bird.exe" файл, который лежит в пути flappybird\Flappy Bird\bin\Debug
